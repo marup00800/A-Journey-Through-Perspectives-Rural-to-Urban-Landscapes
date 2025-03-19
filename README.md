@@ -1,4 +1,4 @@
-A-Journey-Through-Perspectives-Rural-to-Urban-Landscapes
+# A-Journey-Through-Perspectives-Rural-to-Urban-Landscapes
 Discover three contrasting views: serene countryside with rolling fields and quaint cottages, a bustling highway bridging rural and urban worlds, and a vibrant city pulsing with skyscrapers and energy—each scene capturing a unique slice of life's diverse landscapes.
 
 American International University Bangladesh Course Instructor : NABARANJAN DEY (Lecturer CS) Group : 09 Section : M Fall :2024 - 2025
